@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 ruby '2.2.1'
 gem 'rails_12factor', group: :production
+gem 'puma'
 gem 'rails', '4.2.4'
 gem 'devise'
 gem "paperclip", "~> 4.3"
